@@ -1,0 +1,898 @@
+[
+  {
+    "id": 178510,
+    "sku": "143125",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/9/3/9300605147577_C1N1_EN.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Supercoat Smartblend Chicken Large Adult Dog Food 18kg"
+    },
+    "member_price": "70",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 76.99
+        },
+        "regular_price": {
+          "value": 76.99
+        }
+      }
+    }
+  },
+  {
+    "id": 116571,
+    "sku": "132429",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22633_132429_bh108-original-large-breed-adult-chicken--rice_08-daily-feeding-guide-_3_.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Black Hawk Large Breed Adult Formula Chicken & Rice 20kg"
+    },
+    "member_price": "136.99",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 186.99
+        },
+        "regular_price": {
+          "value": 186.99
+        }
+      }
+    }
+  },
+  {
+    "id": 116484,
+    "sku": "98510",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/1/0/10829_98510_136785_9334214008219-9-_5__3_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Advance Chicken Large Breed Adult Dog Food - 15kg"
+    },
+    "member_price": "114.99",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 161.99
+        },
+        "regular_price": {
+          "value": 161.99
+        }
+      }
+    }
+  },
+  {
+    "id": 115647,
+    "sku": "royal-canin-medium-breed-adult-dog-food",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/1/2/12730_royal_canin_medium_adult-2_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Royal Canin Medium Adult Dog Food"
+    },
+    "member_price": null,
+    "variants": [
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjY4Nw==",
+            "label": "15kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 63474,
+          "sku": "29371",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_medium_adult-2_1.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "NULL"
+          },
+          "member_price": "130.25",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 184.99
+              },
+              "regular_price": {
+                "value": 184.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvODQyMTk=",
+            "label": "4kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 63435,
+          "sku": "29358",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_medium_adult-2_2.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "NULL"
+          },
+          "member_price": "54.2",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 68.99
+              },
+              "regular_price": {
+                "value": 68.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvODM3Mw==",
+            "label": "1kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 123822,
+          "sku": "140247",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/placeholder/default/placeholder_2.png",
+            "label": "Royal Canin Medium Breed Adult Dog Food 1kg"
+          },
+          "member_price": "38.24",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 44.99
+              },
+              "regular_price": {
+                "value": 44.99
+              }
+            }
+          }
+        }
+      }
+    ],
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 68.99
+        },
+        "regular_price": {
+          "value": 68.99
+        }
+      }
+    }
+  },
+  {
+    "id": 115413,
+    "sku": "black-hawk-chicken-&-rice-adult-dog-food",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22157_127954_127958_501599_bh311-bh102-bh204-original-adult-chicken---rice_04-eim-tile-_7__1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Black Hawk Chicken And Rice Adult Dog Food"
+    },
+    "member_price": null,
+    "variants": [
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjc4MA==",
+            "label": "20kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 109581,
+          "sku": "127958",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22156_127954_127958_501599_bh311-bh102-bh204-original-adult-chicken---rice_04-eim-tile-_7_.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Black Hawk Chicken And Rice Adult Dog Food - 20kg"
+          },
+          "member_price": "129.99",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 171.99
+              },
+              "regular_price": {
+                "value": 171.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjIzNA==",
+            "label": "3kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 109575,
+          "sku": "127954",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/1/2/127954_BH-DF-ADT-CHICKEN-RICE-3kg-3.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Black Hawk Chicken And Rice Adult Dog Food - 3kg"
+          },
+          "member_price": "36.99",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 50.99
+              },
+              "regular_price": {
+                "value": 50.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjY1MQ==",
+            "label": "10kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 109572,
+          "sku": "501599",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/5/0/501599_BH-DF-ADT-CHICKEN-RICE-10kg-4.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Black Hawk Chicken And Rice Adult Dog Food 10kg"
+          },
+          "member_price": "102.99",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 121.99
+              },
+              "regular_price": {
+                "value": 121.99
+              }
+            }
+          }
+        }
+      }
+    ],
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 50.99
+        },
+        "regular_price": {
+          "value": 50.99
+        }
+      }
+    }
+  },
+  {
+    "id": 115260,
+    "sku": "black-hawk-lamb-&-rice-adult-dog-food",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22163_127955_127959_501601_bh310-bh101-bh205-original-adult-lamb---rice_06-breeder-_5__1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Black Hawk Lamb And Rice Adult Dog Food"
+    },
+    "member_price": null,
+    "variants": [
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjc4MA==",
+            "label": "20kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 109329,
+          "sku": "127959",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22162_127955_127959_501601_bh310-bh101-bh205-original-adult-lamb---rice_06-breeder-_5__2.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Black Hawk Lamb And Rice Adult Dog Food - 20kg"
+          },
+          "member_price": "129.99",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 171.99
+              },
+              "regular_price": {
+                "value": 171.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjIzNA==",
+            "label": "3kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 109323,
+          "sku": "127955",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22161_127955_127959_501601_bh310-bh101-bh205-original-adult-lamb---rice_06-breeder-_5__3.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Black Hawk Lamb And Rice Adult Dog Food - 3kg"
+          },
+          "member_price": "30.99",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 30.99
+              },
+              "regular_price": {
+                "value": 50.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjY1MQ==",
+            "label": "10kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 109317,
+          "sku": "501601",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/2/7/27412_127955_127959_501601_bh310-bh101-bh205-original-adult-lamb---rice_06-breeder-_5__9.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Black Hawk Lamb & Rice Adult Dog Food 10kg"
+          },
+          "member_price": "102.99",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 121.99
+              },
+              "regular_price": {
+                "value": 121.99
+              }
+            }
+          }
+        }
+      }
+    ],
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 30.99
+        },
+        "regular_price": {
+          "value": 50.99
+        }
+      }
+    }
+  },
+  {
+    "id": 112734,
+    "sku": "royal-canin-labrador-adult-dog-food",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/1/2/12726_royal_canin_labrador_adult-2_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Royal Canin Labrador Dog Food - 12kg"
+    },
+    "member_price": null,
+    "variants": [
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjIzNA==",
+            "label": "3kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 62448,
+          "sku": "29328",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_labrador_adult-2_1_2.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Royal Canin Labrador Dog Food - 12kg"
+          },
+          "member_price": "40.4",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 53.99
+              },
+              "regular_price": {
+                "value": 53.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvMTc4MjM=",
+            "label": "12kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 62985,
+          "sku": "30327",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_labrador_adult-2_1_1.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Royal Canin Labrador Dog Food - 12kg"
+          },
+          "member_price": "101.5",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 162.99
+              },
+              "regular_price": {
+                "value": 162.99
+              }
+            }
+          }
+        }
+      }
+    ],
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 53.99
+        },
+        "regular_price": {
+          "value": 53.99
+        }
+      }
+    }
+  },
+  {
+    "id": 112530,
+    "sku": "royal-canin-mini-adult-dog-food",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_mini_adult-2.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "NULL"
+    },
+    "member_price": null,
+    "variants": [
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvODUxNA==",
+            "label": "2kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 82428,
+          "sku": "29315",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_mini_adult-2_1.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "NULL"
+          },
+          "member_price": "31.86",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 43.99
+              },
+              "regular_price": {
+                "value": 43.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvMTMyNTE=",
+            "label": "8kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 81636,
+          "sku": "30311",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_mini_adult-2_2.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "NULL"
+          },
+          "member_price": "87.44",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 119.99
+              },
+              "regular_price": {
+                "value": 119.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvODQyMTk=",
+            "label": "4kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 128991,
+          "sku": "140222",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_mini_adult-2_3.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "NULL"
+          },
+          "member_price": "52.15",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 70.99
+              },
+              "regular_price": {
+                "value": 70.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNzgzOTM=",
+            "label": "800g",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 124404,
+          "sku": "140245",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_mini_adult-2_4.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "NULL"
+          },
+          "member_price": "17.09",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 18.99
+              },
+              "regular_price": {
+                "value": 18.99
+              }
+            }
+          }
+        }
+      }
+    ],
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 18.99
+        },
+        "regular_price": {
+          "value": 18.99
+        }
+      }
+    }
+  },
+  {
+    "id": 111105,
+    "sku": "black-hawk-fish-&-potato-adult-dog-food",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22158_127956_127960_501600_bh312-bh105-bh203-original-adult-fish--potato_03-variant-specif.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "22158_127956_127960_501600_bh312-bh105-bh203-original-adult-fish--potato_03-variant-specific-_8__3.jpg"
+    },
+    "member_price": null,
+    "variants": [
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjIzNA==",
+            "label": "3kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 108987,
+          "sku": "127956",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22158_127956_127960_501600_bh312-bh105-bh203-original-adult-fish---potato_03-variant-specific-_8__3.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Black Hawk Fish And Potato Adult Dog Food - 3kg"
+          },
+          "member_price": "46.99",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 54.99
+              },
+              "regular_price": {
+                "value": 54.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjc4MA==",
+            "label": "20kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 108981,
+          "sku": "127960",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22159_127956_127960_501600_bh312-bh105-bh203-original-adult-fish---potato_03-variant-specific-_8__2.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Black Hawk Fish And Potato Adult Dog Food - 20kg"
+          },
+          "member_price": "140.99",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 189.99
+              },
+              "regular_price": {
+                "value": 189.99
+              }
+            }
+          }
+        }
+      },
+      {
+        "attributes": [
+          {
+            "uid": "Y29uZmlndXJhYmxlLzEyOTkvNjY1MQ==",
+            "label": "10kg",
+            "code": "size"
+          }
+        ],
+        "product": {
+          "id": 116724,
+          "sku": "501600",
+          "thumbnail": {
+            "url": "https://www.petbarn.com.au/media/catalog/product/2/7/27415_127956_127960_501600_bh312-bh105-bh203-original-adult-fish---potato_03-variant-specific-_8_.jpg?optimize=medium&fit=bounds&height=&width=",
+            "label": "Black Hawk Fish & Potato Dog Food 10kg"
+          },
+          "member_price": "112.99",
+          "price_range": {
+            "minimum_price": {
+              "final_price": {
+                "value": 132.99
+              },
+              "regular_price": {
+                "value": 132.99
+              }
+            }
+          }
+        }
+      }
+    ],
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 54.99
+        },
+        "regular_price": {
+          "value": 54.99
+        }
+      }
+    }
+  },
+  {
+    "id": 97218,
+    "sku": "133077",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/3/0/30608_133077_prime100-roll_new-horizontal-revised-render-chicken_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Prime100 Chicken & Brown Rice Cooked Dog Roll 2kg"
+    },
+    "member_price": null,
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 20.99
+        },
+        "regular_price": {
+          "value": 20.99
+        }
+      }
+    }
+  },
+  {
+    "id": 95997,
+    "sku": "133076",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/3/0/30607_133076_prime100-roll_new-horizontal-revised-render-kangaroopumpkin_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Prime100 Kangaroo & Pumpkin Cooked Dog Roll 2kg"
+    },
+    "member_price": null,
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 22.99
+        },
+        "regular_price": {
+          "value": 22.99
+        }
+      }
+    }
+  },
+  {
+    "id": 93201,
+    "sku": "133293",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/2/2/22900_136938_133293_136935_rc_hypoallergenic_dog_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Royal Canin Veterinary Hypoallergenic Adult Dog Food 14kg"
+    },
+    "member_price": "191.99",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 255.99
+        },
+        "regular_price": {
+          "value": 255.99
+        }
+      }
+    }
+  },
+  {
+    "id": 93009,
+    "sku": "135919",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/3/0/30614_135919_prime100-roll_new-horizontal-revised-render-turkey_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Prime100 Turkey & Flaxseed Cooked Dog Roll  2kg"
+    },
+    "member_price": null,
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 18.99
+        },
+        "regular_price": {
+          "value": 18.99
+        }
+      }
+    }
+  },
+  {
+    "id": 88272,
+    "sku": "136934",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/2/7/27580_136934_rc_anallergenic_dog_1_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Royal Canin Veterinary Anallergenic Adult Dog Food 8Kg"
+    },
+    "member_price": "151.99",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 200.99
+        },
+        "regular_price": {
+          "value": 200.99
+        }
+      }
+    }
+  },
+  {
+    "id": 82167,
+    "sku": "136880",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/1/3/138806_Hill_s_Prescription_Diet_JD_Mobility_Dry_Dog_Food_3.86kg_1_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "NULL"
+    },
+    "member_price": "171.99",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 221.99
+        },
+        "regular_price": {
+          "value": 221.99
+        }
+      }
+    }
+  },
+  {
+    "id": 81420,
+    "sku": "137418",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/2/8/28765_pbaac0032_lb_lgebre_kang_veg_15kg_front-7x7_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Leaps & Bounds Kangaroo & Vegetable Large Breed Adult Dog Food 15Kg"
+    },
+    "member_price": "64.99",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 60
+        },
+        "regular_price": {
+          "value": 86.99
+        }
+      }
+    }
+  },
+  {
+    "id": 78264,
+    "sku": "132931",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/1/3/132931_9334214037585eukanuba_-adult-large-breed-dry-dog-food-8.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "NULL"
+    },
+    "member_price": "108.98",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 151.99
+        },
+        "regular_price": {
+          "value": 151.99
+        }
+      }
+    }
+  },
+  {
+    "id": 74946,
+    "sku": "133292",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/V/H/VHN-BrandFlagship-Hero-Images-Gastrointestinal_Low_Fat_Dog_Dry_Page_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Royal Canin Veterinary Gastro Intst LF Adult Dog Food 12kg"
+    },
+    "member_price": "156.99",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 218.99
+        },
+        "regular_price": {
+          "value": 218.99
+        }
+      }
+    }
+  },
+  {
+    "id": 74805,
+    "sku": "113968",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_golden_retriever_adult_-2_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "Royal Canin Golden Retriever Dog Food - 12kg"
+    },
+    "member_price": "114.27",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 162.99
+        },
+        "regular_price": {
+          "value": 162.99
+        }
+      }
+    }
+  },
+  {
+    "id": 63051,
+    "sku": "30299",
+    "thumbnail": {
+      "url": "https://www.petbarn.com.au/media/catalog/product/r/o/royal_canin_maxi_adult-2_1.jpg?optimize=medium&fit=bounds&height=&width=",
+      "label": "NULL"
+    },
+    "member_price": "127.84",
+    "price_range": {
+      "minimum_price": {
+        "final_price": {
+          "value": 184.99
+        },
+        "regular_price": {
+          "value": 184.99
+        }
+      }
+    }
+  }
+]

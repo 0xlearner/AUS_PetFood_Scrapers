@@ -1,0 +1,728 @@
+{
+  "[data-role=swatch-options]": {
+    "Magento_Swatches/js/swatch-renderer": {
+      "jsonConfig": {
+        "attributes": {
+          "1299": {
+            "id": "1299",
+            "code": "size",
+            "label": "Size",
+            "options": {
+              "1": {
+                "id": "15402",
+                "label": "1.3kg",
+                "products": [
+                  "71754"
+                ]
+              },
+              "2": {
+                "id": "9537",
+                "label": "200g",
+                "products": [
+                  "75327"
+                ]
+              },
+              "3": {
+                "id": "28065",
+                "label": "400g",
+                "products": [
+                  "73893"
+                ]
+              },
+              "4": {
+                "id": "78633",
+                "label": "850g",
+                "products": [
+                  "72072"
+                ]
+              }
+            },
+            "position": "0"
+          }
+        },
+        "template": "$<%-data.price%>",
+        "currencyFormat": "$%s",
+        "optionPrices": {
+          "75327": {
+            "baseOldPrice": {
+              "amount": 18.172726272727
+            },
+            "oldPrice": {
+              "amount": 19.99
+            },
+            "basePrice": {
+              "amount": 18.172726272727
+            },
+            "finalPrice": {
+              "amount": 19.99
+            },
+            "tierPrices": [],
+            "msrpPrice": {
+              "amount": 0
+            },
+            "rendered_price": "<divclass=\"product-item-member-price\">\n<divclass=\"regular-price\">\n<spanclass=\"label\">RegularPrice</span>\n<spanclass=\"price\"><divclass=\"price-boxprice-final_price\"data-role=\"priceBox\"data-product-id=\"75327\"data-price-box=\"product-id-75327\">\n\n\n<spanclass=\"price-containerprice-final_price&#x20;tax&#x20;weee\"\n>\n\n\n<spanclass=\"single-order-label\"><strong>Onlineprice</strong></span>\n\n<spanid=\"product-price-75327\"data-price-amount=\"19.99\"\ndata-price-type=\"finalPrice\"\nclass=\"price-wrapper\"\n>\n<spanclass=\"price\">$19.99</span></span>\n\n\n\n</span>\n\n</div></span>\n</div>\n</div>\n"
+          },
+          "71754": {
+            "baseOldPrice": {
+              "amount": 81.809089909091
+            },
+            "oldPrice": {
+              "amount": 89.99
+            },
+            "basePrice": {
+              "amount": 81.809089909091
+            },
+            "finalPrice": {
+              "amount": 89.99
+            },
+            "tierPrices": [],
+            "msrpPrice": {
+              "amount": 0
+            },
+            "rendered_price": "<divclass=\"product-item-member-price\">\n<divclass=\"regular-price\">\n<spanclass=\"label\">RegularPrice</span>\n<spanclass=\"price\"><divclass=\"price-boxprice-final_price\"data-role=\"priceBox\"data-product-id=\"71754\"data-price-box=\"product-id-71754\">\n\n\n<spanclass=\"price-containerprice-final_price&#x20;tax&#x20;weee\"\n>\n\n\n<spanclass=\"single-order-label\"><strong>Onlineprice</strong></span>\n\n<spanid=\"product-price-71754\"data-price-amount=\"89.99\"\ndata-price-type=\"finalPrice\"\nclass=\"price-wrapper\"\n>\n<spanclass=\"price\">$89.99</span></span>\n\n\n\n</span>\n\n</div></span>\n</div>\n<divclass=\"rd-price\">\n<spanclass=\"label\">RepeatDelivery</span>\n<spanclass=\"price\">\n$71.99</span>\n</div>\n</div>\n"
+          },
+          "72072": {
+            "baseOldPrice": {
+              "amount": 62.718180818182
+            },
+            "oldPrice": {
+              "amount": 68.99
+            },
+            "basePrice": {
+              "amount": 62.718180818182
+            },
+            "finalPrice": {
+              "amount": 68.99
+            },
+            "tierPrices": [],
+            "msrpPrice": {
+              "amount": 0
+            },
+            "rendered_price": "<divclass=\"product-item-member-price\">\n<divclass=\"regular-price\">\n<spanclass=\"label\">RegularPrice</span>\n<spanclass=\"price\"><divclass=\"price-boxprice-final_price\"data-role=\"priceBox\"data-product-id=\"72072\"data-price-box=\"product-id-72072\">\n\n\n<spanclass=\"price-containerprice-final_price&#x20;tax&#x20;weee\"\n>\n\n\n<spanclass=\"single-order-label\"><strong>Onlineprice</strong></span>\n\n<spanid=\"product-price-72072\"data-price-amount=\"68.99\"\ndata-price-type=\"finalPrice\"\nclass=\"price-wrapper\"\n>\n<spanclass=\"price\">$68.99</span></span>\n\n\n\n</span>\n\n</div></span>\n</div>\n<divclass=\"rd-price\">\n<spanclass=\"label\">RepeatDelivery</span>\n<spanclass=\"price\">\n$55.19</span>\n</div>\n</div>\n"
+          },
+          "73893": {
+            "baseOldPrice": {
+              "amount": 36.354544454545
+            },
+            "oldPrice": {
+              "amount": 39.99
+            },
+            "basePrice": {
+              "amount": 36.354544454545
+            },
+            "finalPrice": {
+              "amount": 39.99
+            },
+            "tierPrices": [],
+            "msrpPrice": {
+              "amount": 0
+            },
+            "rendered_price": "<divclass=\"product-item-member-price\">\n<divclass=\"regular-price\">\n<spanclass=\"label\">RegularPrice</span>\n<spanclass=\"price\"><divclass=\"price-boxprice-final_price\"data-role=\"priceBox\"data-product-id=\"73893\"data-price-box=\"product-id-73893\">\n\n\n<spanclass=\"price-containerprice-final_price&#x20;tax&#x20;weee\"\n>\n\n\n<spanclass=\"single-order-label\"><strong>Onlineprice</strong></span>\n\n<spanid=\"product-price-73893\"data-price-amount=\"39.99\"\ndata-price-type=\"finalPrice\"\nclass=\"price-wrapper\"\n>\n<spanclass=\"price\">$39.99</span></span>\n\n\n\n</span>\n\n</div></span>\n</div>\n<divclass=\"rd-price\">\n<spanclass=\"label\">RepeatDelivery</span>\n<spanclass=\"price\">\n$31.99</span>\n</div>\n</div>\n"
+          }
+        },
+        "priceFormat": {
+          "pattern": "$%s",
+          "precision": 2,
+          "requiredPrecision": 2,
+          "decimalSymbol": ".",
+          "groupSymbol": ",",
+          "groupLength": 3,
+          "integerRequired": false
+        },
+        "prices": {
+          "baseOldPrice": {
+            "amount": 18.172726272727
+          },
+          "oldPrice": {
+            "amount": 19.99
+          },
+          "basePrice": {
+            "amount": 81.809089909091
+          },
+          "finalPrice": {
+            "amount": 89.99
+          }
+        },
+        "productId": "110787",
+        "chooseText": "ChooseanOption...",
+        "images": {
+          "75327": [
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_136377__BSC-Long-Lasting-Pork-Ears-200g_2200g_2.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_136377__BSC-Long-Lasting-Pork-Ears-200g_2200g_2.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_136377__BSC-Long-Lasting-Pork-Ears-200g_2200g_2.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat200g",
+              "position": "2",
+              "isMain": false,
+              "type": "image",
+              "videoUrl": null
+            },
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_136377__BSC-Long-Lasting-Pork-Ears-200g_1200g_1.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_136377__BSC-Long-Lasting-Pork-Ears-200g_1200g_1.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_136377__BSC-Long-Lasting-Pork-Ears-200g_1200g_1.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat200g",
+              "position": "1",
+              "isMain": true,
+              "type": "image",
+              "videoUrl": null
+            },
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_136377__BSC-Long-Lasting-Pork-Ears-200g_3200g_3.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_136377__BSC-Long-Lasting-Pork-Ears-200g_3200g_3.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_136377__BSC-Long-Lasting-Pork-Ears-200g_3200g_3.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat200g",
+              "position": "3",
+              "isMain": false,
+              "type": "image",
+              "videoUrl": null
+            }
+          ],
+          "71754": [
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3213505__BSC-Long-Lasting-Pork-Ears-1.3kg_21.3kg_2.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3213505__BSC-Long-Lasting-Pork-Ears-1.3kg_21.3kg_2.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3213505__BSC-Long-Lasting-Pork-Ears-1.3kg_21.3kg_2.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat1.3kg",
+              "position": "2",
+              "isMain": false,
+              "type": "image",
+              "videoUrl": null
+            },
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3213505__BSC-Long-Lasting-Pork-Ears-1.3kg_31.3kg_3.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3213505__BSC-Long-Lasting-Pork-Ears-1.3kg_31.3kg_3.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3213505__BSC-Long-Lasting-Pork-Ears-1.3kg_31.3kg_3.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat1.3kg",
+              "position": "5",
+              "isMain": false,
+              "type": "image",
+              "videoUrl": null
+            },
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3213505__BSC-Long-Lasting-Pork-Ears-1.3kg_11.3kg_1.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3213505__BSC-Long-Lasting-Pork-Ears-1.3kg_11.3kg_1.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3213505__BSC-Long-Lasting-Pork-Ears-1.3kg_11.3kg_1.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat1.3kg",
+              "position": "1",
+              "isMain": true,
+              "type": "image",
+              "videoUrl": null
+            }
+          ],
+          "72072": [
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210653__BSC-Long-Lasting-Pork-Ears-850g_2850g_2.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210653__BSC-Long-Lasting-Pork-Ears-850g_2850g_2.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210653__BSC-Long-Lasting-Pork-Ears-850g_2850g_2.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat850g",
+              "position": "2",
+              "isMain": false,
+              "type": "image",
+              "videoUrl": null
+            },
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210653__BSC-Long-Lasting-Pork-Ears-850g_1850g_1.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210653__BSC-Long-Lasting-Pork-Ears-850g_1850g_1.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210653__BSC-Long-Lasting-Pork-Ears-850g_1850g_1.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat850g",
+              "position": "1",
+              "isMain": true,
+              "type": "image",
+              "videoUrl": null
+            },
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210653__BSC-Long-Lasting-Pork-Ears-850g_3850g_3.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210653__BSC-Long-Lasting-Pork-Ears-850g_3850g_3.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210653__BSC-Long-Lasting-Pork-Ears-850g_3850g_3.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat850g",
+              "position": "4",
+              "isMain": false,
+              "type": "image",
+              "videoUrl": null
+            }
+          ],
+          "73893": [
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210086__BSC-Long-Lasting-Pork-Ears-400g_2400g_2.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210086__BSC-Long-Lasting-Pork-Ears-400g_2400g_2.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210086__BSC-Long-Lasting-Pork-Ears-400g_2400g_2.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat400g",
+              "position": "2",
+              "isMain": false,
+              "type": "image",
+              "videoUrl": null
+            },
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210086__BSC-Long-Lasting-Pork-Ears-400g_3400g_3.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210086__BSC-Long-Lasting-Pork-Ears-400g_3400g_3.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210086__BSC-Long-Lasting-Pork-Ears-400g_3400g_3.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat400g",
+              "position": "3",
+              "isMain": false,
+              "type": "image",
+              "videoUrl": null
+            },
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210086__BSC-Long-Lasting-Pork-Ears-400g_1400g_1.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210086__BSC-Long-Lasting-Pork-Ears-400g_1400g_1.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/D/o/Dog_3210086__BSC-Long-Lasting-Pork-Ears-400g_1400g_1.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat400g",
+              "position": "1",
+              "isMain": true,
+              "type": "image",
+              "videoUrl": null
+            }
+          ]
+        },
+        "index": {
+          "75327": {
+            "1299": "9537"
+          },
+          "71754": {
+            "1299": "15402"
+          },
+          "72072": {
+            "1299": "78633"
+          },
+          "73893": {
+            "1299": "28065"
+          }
+        },
+        "channel": "website",
+        "salesChannelCode": "base",
+        "sku": {
+          "75327": "136377",
+          "71754": "3213505",
+          "72072": "3210653",
+          "73893": "3210086"
+        },
+        "labels": {
+          "75327": [],
+          "71754": [],
+          "72072": [],
+          "73893": []
+        },
+        "hasEndDate": {
+          "75327": false,
+          "71754": false,
+          "72072": false,
+          "73893": false
+        },
+        "dynamic": {
+          "name": {
+            "75327": {
+              "value": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat200g"
+            },
+            "71754": {
+              "value": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat1.3kg"
+            },
+            "72072": {
+              "value": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat850g"
+            },
+            "73893": {
+              "value": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat400g"
+            }
+          },
+          "description": {
+            "75327": {
+              "value": "Whenitcomestolookingafterourpets,naturaliscertainlybest.<br><br>\r\n\r\nThat'swhyButcher'sSuperiorCutsstartbysourcinghighqualityproducethatyourecognisefromthefarms&amp;fieldsofAustralia&amp;NewZealandtodevelopourrangeofnaturaltreats.Processingiskepttoanabsoluteminimum;enhancingthegreatmeatytastepetslovebest.OurtreatsareAustralianmadeandpreparedwithnoaddedcoloursorflavours.<br><br><b>Features&amp;benefits</b><br>\r\n&nbsp;\u2022Airdried<br>\r\n&nbsp;\u2022Longlasting<br>\r\n&nbsp;\u2022Noartificialcoloursorflavours.<br><br>\r\n\r\nButcher'sSuperiorCutslonglastingporkearsaremadewith100%airdriedpork;naturalgoodnesswiththegreatmeatytasteyourdogwilllove."
+            },
+            "71754": {
+              "value": "Whenitcomestolookingafterourpets,naturaliscertainlybest.<br><br>\r\n\r\nThat'swhyButcher'sSuperiorCutsstartbysourcinghighqualityproducethatyourecognisefromthefarms&amp;fieldsofAustralia&amp;NewZealandtodevelopourrangeofnaturaltreats.Processingiskepttoanabsoluteminimum;enhancingthegreatmeatytastepetslovebest.OurtreatsareAustralianmadeandpreparedwithnoaddedcoloursorflavours.<br><br><b>Features&amp;benefits</b><br>\r\n&nbsp;\u2022Airdried<br>\r\n&nbsp;\u2022Longlasting<br>\r\n&nbsp;\u2022Noartificialcoloursorflavours.<br><br>\r\n\r\nButcher'sSuperiorCutslonglastingporkearsaremadewith100%airdriedpork;naturalgoodnesswiththegreatmeatytasteyourdogwilllove."
+            },
+            "72072": {
+              "value": "Whenitcomestolookingafterourpets,naturaliscertainlybest.<br><br>\r\n\r\nThat'swhyButcher'sSuperiorCutsstartbysourcinghighqualityproducethatyourecognisefromthefarms&amp;fieldsofAustralia&amp;NewZealandtodevelopourrangeofnaturaltreats.Processingiskepttoanabsoluteminimum;enhancingthegreatmeatytastepetslovebest.OurtreatsareAustralianmadeandpreparedwithnoaddedcoloursorflavours.<br><br><b>Features&amp;benefits</b><br>\r\n&nbsp;\u2022Airdried<br>\r\n&nbsp;\u2022Longlasting<br>\r\n&nbsp;\u2022Noartificialcoloursorflavours.<br><br>\r\n\r\nButcher'sSuperiorCutslonglastingporkearsaremadewith100%airdriedpork;naturalgoodnesswiththegreatmeatytasteyourdogwilllove."
+            },
+            "73893": {
+              "value": "Whenitcomestolookingafterourpets,naturaliscertainlybest.<br><br>\r\n\r\nThat'swhyButcher'sSuperiorCutsstartbysourcinghighqualityproducethatyourecognisefromthefarms&amp;fieldsofAustralia&amp;NewZealandtodevelopourrangeofnaturaltreats.Processingiskepttoanabsoluteminimum;enhancingthegreatmeatytastepetslovebest.OurtreatsareAustralianmadeandpreparedwithnoaddedcoloursorflavours.<br><br><b>Features&amp;benefits</b><br>\r\n&nbsp;\u2022Airdried<br>\r\n&nbsp;\u2022Longlasting<br>\r\n&nbsp;\u2022Noartificialcoloursorflavours.<br><br>\r\n\r\nButcher'sSuperiorCutslonglastingporkearsaremadewith100%airdriedpork;naturalgoodnesswiththegreatmeatytasteyourdogwilllove."
+            }
+          },
+          "short_description": {
+            "75327": {
+              "value": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat200g"
+            },
+            "71754": {
+              "value": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat1.3kg"
+            },
+            "72072": {
+              "value": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat850g"
+            },
+            "73893": {
+              "value": "Butcher'sSuperiorCutsLongLastPorkEarDogTreat400g"
+            }
+          },
+          "sku": {
+            "75327": {
+              "value": "136377"
+            },
+            "71754": {
+              "value": "3213505"
+            },
+            "72072": {
+              "value": "3210653"
+            },
+            "73893": {
+              "value": "3210086"
+            }
+          },
+          "marketing_offer_short": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "gtin": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "sku_variant": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "banner_url": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "product_category": {
+            "75327": {
+              "value": "Treats"
+            },
+            "71754": {
+              "value": "Treats"
+            },
+            "72072": {
+              "value": "Treats"
+            },
+            "73893": {
+              "value": "Treats"
+            }
+          },
+          "treat_type": {
+            "75327": {
+              "value": "Chew,Natural,Occupier"
+            },
+            "71754": {
+              "value": "Chew,Natural,Occupier"
+            },
+            "72072": {
+              "value": "Chew,Natural,Occupier"
+            },
+            "73893": {
+              "value": "Chew,Natural,Occupier"
+            }
+          },
+          "advice_care": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "brand_filter": {
+            "75327": {
+              "value": "Butcher'sSuperiorCuts"
+            },
+            "71754": {
+              "value": "Butcher'sSuperiorCuts"
+            },
+            "72072": {
+              "value": "Butcher'sSuperiorCuts"
+            },
+            "73893": {
+              "value": "Butcher'sSuperiorCuts"
+            }
+          },
+          "benefits": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "breed": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "feeding_guide": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "flavour": {
+            "75327": {
+              "value": "Pork"
+            },
+            "71754": {
+              "value": "Pork"
+            },
+            "72072": {
+              "value": "Pork"
+            },
+            "73893": {
+              "value": "Pork"
+            }
+          },
+          "ingredients": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "size": {
+            "75327": {
+              "value": "200g"
+            },
+            "71754": {
+              "value": "1.3kg"
+            },
+            "72072": {
+              "value": "850g"
+            },
+            "73893": {
+              "value": "400g"
+            }
+          },
+          "species": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "life_stage": {
+            "75327": {
+              "value": "All"
+            },
+            "71754": {
+              "value": "All"
+            },
+            "72072": {
+              "value": "All"
+            },
+            "73893": {
+              "value": "All"
+            }
+          },
+          "health_benefits": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "australia_made": {
+            "75327": {
+              "value": "No"
+            },
+            "71754": {
+              "value": "No"
+            },
+            "72072": {
+              "value": "No"
+            },
+            "73893": {
+              "value": "No"
+            }
+          },
+          "health_condition_dietary": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "nutritional_info": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "nutritional_info_table": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          },
+          "member_price": {
+            "75327": {
+              "value": ""
+            },
+            "71754": {
+              "value": ""
+            },
+            "72072": {
+              "value": ""
+            },
+            "73893": {
+              "value": ""
+            }
+          }
+        },
+        "marketing_offer_message": {
+          "75327": "",
+          "71754": "",
+          "72072": "",
+          "73893": ""
+        }
+      },
+      "jsonSwatchConfig": {
+        "1299": {
+          "15402": {
+            "type": "0",
+            "value": null,
+            "label": "1.3kg"
+          },
+          "9537": {
+            "type": "0",
+            "value": null,
+            "label": "200g"
+          },
+          "28065": {
+            "type": "0",
+            "value": null,
+            "label": "400g"
+          },
+          "78633": {
+            "type": "0",
+            "value": null,
+            "label": "850g"
+          },
+          "additional_data": "{\"update_product_preview_image\":\"1\",\"use_product_image_for_swatch\":0,\"text_swatch_as_multiple_select\":\"1\",\"swatch_input_type\":\"text\"}"
+        }
+      },
+      "mediaCallback": "https://www.petbarn.com.au/swatches/ajax/media/",
+      "gallerySwitchStrategy": "replace",
+      "jsonSwatchImageSizeConfig": {
+        "swatchImage": {
+          "width": 30,
+          "height": 20
+        },
+        "swatchThumb": {
+          "height": 90,
+          "width": 110
+        }
+      },
+      "showTooltip": 1
+    }
+  },
+  "*": {
+    "Magento_Swatches/js/catalog-add-to-cart": {}
+  }
+}

@@ -1,0 +1,398 @@
+{
+  "[data-role=swatch-options]": {
+    "Magento_Swatches/js/swatch-renderer": {
+      "jsonConfig": {
+        "attributes": {
+          "1299": {
+            "id": "1299",
+            "code": "size",
+            "label": "Size",
+            "options": [
+              {
+                "id": "2827505",
+                "label": "30PK",
+                "products": [
+                  "120439"
+                ]
+              },
+              {
+                "id": "2827511",
+                "label": "15PK",
+                "products": [
+                  "120778"
+                ]
+              }
+            ],
+            "position": "0"
+          }
+        },
+        "template": "$<%-data.price%>",
+        "currencyFormat": "$%s",
+        "optionPrices": {
+          "120778": {
+            "baseOldPrice": {
+              "amount": 26.354544454545
+            },
+            "oldPrice": {
+              "amount": 28.99
+            },
+            "basePrice": {
+              "amount": 26.354544454545
+            },
+            "finalPrice": {
+              "amount": 28.99
+            },
+            "tierPrices": [],
+            "msrpPrice": {
+              "amount": 0
+            },
+            "rendered_price": "<divclass=\"product-item-member-price\">\n<divclass=\"product-item-member-price__wrapper\">\n<divclass=\"member-status-wrap\">\n<strongclass=\"member-status\">\nMemberprice</strong>\n<imgloading=\"lazy\"class=\"points-logo\"\nwidth=\"57\"\nheight=\"17\"\nsrc=\"https://www.petbarn.com.au/static/version1675893964/frontend/Petbarn/default/en_AU/images/bloyal/ffl.svg\"\nalt=\"Memberprice\">\n</div>\n<divclass=\"product-item-member-price__configural\">\n<divclass=\"price-boxmember-price\">\n<divclass=\"price\">$24.99</div>\n</div>\n<divclass=\"regular-price\">\n<divclass=\"price\">\n<span>RegularPrice</span>\n$28.99</div>\n</div>\n</div>\n</div>\n<divclass=\"product-item-member-price__regular\">\n<divclass=\"regular-price\">\n<span>RegularPrice</span>\n<spanclass=\"price\">\n<divclass=\"price-boxprice-final_price\"data-role=\"priceBox\"data-product-id=\"120778\"data-price-box=\"product-id-120778\">\n\n\n<spanclass=\"price-containerprice-final_price&#x20;tax&#x20;weee\"\n>\n\n\n<spanclass=\"single-order-label\"><strong>Onlineprice</strong></span>\n\n<spanid=\"product-price-120778\"data-price-amount=\"28.99\"\ndata-price-type=\"finalPrice\"\nclass=\"price-wrapper\"\n>\n<spanclass=\"price\">$28.99</span></span>\n\n\n\n</span>\n\n</div></span>\n</div>\n</div>\n<divclass=\"rd-price\">\n<spanclass=\"label\">RepeatDelivery</span>\n<spanclass=\"price\">\n$23.19</span>\n</div>\n</div>\n",
+            "has_member_price": true
+          },
+          "120439": {
+            "baseOldPrice": {
+              "amount": 44.536362636364
+            },
+            "oldPrice": {
+              "amount": 48.99
+            },
+            "basePrice": {
+              "amount": 44.536362636364
+            },
+            "finalPrice": {
+              "amount": 48.99
+            },
+            "tierPrices": [],
+            "msrpPrice": {
+              "amount": 0
+            },
+            "rendered_price": "<divclass=\"product-item-member-price\">\n<divclass=\"product-item-member-price__wrapper\">\n<divclass=\"member-status-wrap\">\n<strongclass=\"member-status\">\nMemberprice</strong>\n<imgloading=\"lazy\"class=\"points-logo\"\nwidth=\"57\"\nheight=\"17\"\nsrc=\"https://www.petbarn.com.au/static/version1675893964/frontend/Petbarn/default/en_AU/images/bloyal/ffl.svg\"\nalt=\"Memberprice\">\n</div>\n<divclass=\"product-item-member-price__configural\">\n<divclass=\"price-boxmember-price\">\n<divclass=\"price\">$41.99</div>\n</div>\n<divclass=\"regular-price\">\n<divclass=\"price\">\n<span>RegularPrice</span>\n$48.99</div>\n</div>\n</div>\n</div>\n<divclass=\"product-item-member-price__regular\">\n<divclass=\"regular-price\">\n<span>RegularPrice</span>\n<spanclass=\"price\">\n<divclass=\"price-boxprice-final_price\"data-role=\"priceBox\"data-product-id=\"120439\"data-price-box=\"product-id-120439\">\n\n\n<spanclass=\"price-containerprice-final_price&#x20;tax&#x20;weee\"\n>\n\n\n<spanclass=\"single-order-label\"><strong>Onlineprice</strong></span>\n\n<spanid=\"product-price-120439\"data-price-amount=\"48.99\"\ndata-price-type=\"finalPrice\"\nclass=\"price-wrapper\"\n>\n<spanclass=\"price\">$48.99</span></span>\n\n\n\n</span>\n\n</div></span>\n</div>\n</div>\n<divclass=\"rd-price\">\n<spanclass=\"label\">RepeatDelivery</span>\n<spanclass=\"price\">\n$39.19</span>\n</div>\n</div>\n",
+            "has_member_price": true
+          }
+        },
+        "priceFormat": {
+          "pattern": "$%s",
+          "precision": 2,
+          "requiredPrecision": 2,
+          "decimalSymbol": ".",
+          "groupSymbol": ",",
+          "groupLength": 3,
+          "integerRequired": false
+        },
+        "prices": {
+          "baseOldPrice": {
+            "amount": 26.354544454545
+          },
+          "oldPrice": {
+            "amount": 28.99
+          },
+          "basePrice": {
+            "amount": 44.536362636364
+          },
+          "finalPrice": {
+            "amount": 48.99
+          }
+        },
+        "productId": "136584",
+        "chooseText": "ChooseanOption...",
+        "images": {
+          "120778": [
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/3/2/3218889.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/3/2/3218889.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/3/2/3218889.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "ProbalanceToothbrushVarietyPackLargeDogTreat15Pk",
+              "position": "1",
+              "isMain": true,
+              "type": "image",
+              "videoUrl": null
+            }
+          ],
+          "120439": [
+            {
+              "thumb": "https://www.petbarn.com.au/media/catalog/product/3/2/3218891.jpg?optimize=medium&fit=bounds&height=62&width=62&canvas=62:62",
+              "img": "https://www.petbarn.com.au/media/catalog/product/3/2/3218891.jpg?optimize=medium&fit=bounds&height=450&width=450&canvas=450:450",
+              "full": "https://www.petbarn.com.au/media/catalog/product/3/2/3218891.jpg?optimize=medium&fit=bounds&height=&width=&canvas=:",
+              "caption": "ProbalanceToothbrushVarietyPackLargeDogTreat30Pk",
+              "position": "1",
+              "isMain": true,
+              "type": "image",
+              "videoUrl": null
+            }
+          ]
+        },
+        "index": {
+          "120778": {
+            "1299": "2827511"
+          },
+          "120439": {
+            "1299": "2827505"
+          }
+        },
+        "channel": "website",
+        "salesChannelCode": "base",
+        "sku": {
+          "120778": "3218889",
+          "120439": "3218891"
+        },
+        "labels": {
+          "120778": {
+            "member_price": "MemberOffer"
+          },
+          "120439": {
+            "member_price": "MemberOffer"
+          }
+        },
+        "hasEndDate": {
+          "120778": false,
+          "120439": false
+        },
+        "dynamic": {
+          "name": {
+            "120778": {
+              "value": "ProbalanceToothbrushVarietyPackLargeDogTreat15Pk"
+            },
+            "120439": {
+              "value": "ProbalanceToothbrushVarietyPackLargeDogTreat30Pk"
+            }
+          },
+          "description": {
+            "120778": {
+              "value": "ProBalanceisdevelopedbyourteamofexpertnutritionistsandveterinaryscientiststohelpyourpetthrivethroughabalanceofnatureandscience.<br/><br/>\r\n\r\nTreatyourdogandsupporttheiroralhealthwiththesedentaltoothbrushtreats,thathavebeendeliciouslydesignedtohelpcleanteeth&freshenbreathinnaturalflavoursdogslove.Thetoothbrushshape&texturehelpsscrubawayplaque&tartar,whilstnaturalingredientsincludingparsley,peppermintoil,cinnamonandcharcoalhelpfreshenbadbreath.RapidlyabsorbingVitaminCpromotesgumhealthandmoreeffectiveplaqueremoval.Thesedentaltreatsareeasytodigestandgentleonstomachs.<br/><br/>\r\n\r\nAllProBalancetreatshavenoartificialcolours,flavoursorpreservatives.<br/><br/>"
+            },
+            "120439": {
+              "value": "ProBalanceisdevelopedbyourteamofexpertnutritionistsandveterinaryscientiststohelpyourpetthrivethroughabalanceofnatureandscience.<br/><br/>\r\n\r\nTreatyourdogandsupporttheiroralhealthwiththesedentaltoothbrushtreats,thathavebeendeliciouslydesignedtohelpcleanteeth&freshenbreathinnaturalflavoursdogslove.Thetoothbrushshape&texturehelpsscrubawayplaque&tartar,whilstnaturalingredientsincludingparsley,peppermintoil,cinnamonandcharcoalhelpfreshenbadbreath.RapidlyabsorbingVitaminCpromotesgumhealthandmoreeffectiveplaqueremoval.Thesedentaltreatsareeasytodigestandgentleonstomachs.<br/><br/>\r\n\r\nAllProBalancetreatshavenoartificialcolours,flavoursorpreservatives.<br/><br/>"
+            }
+          },
+          "short_description": {
+            "120778": {
+              "value": "Treatyourdogandsupporttheiroralhealthwiththesedentaltoothbrushtreats.Deliciouslydesignedtohelpcleanteeth&freshenbreathinflavoursdogslove."
+            },
+            "120439": {
+              "value": "Treatyourdogandsupporttheiroralhealthwiththesedentaltoothbrushtreats.Deliciouslydesignedtohelpcleanteeth&freshenbreathinflavoursdogslove."
+            }
+          },
+          "sku": {
+            "120778": {
+              "value": "3218889"
+            },
+            "120439": {
+              "value": "3218891"
+            }
+          },
+          "marketing_offer_short": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "gtin": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "sku_variant": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "banner_url": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "product_category": {
+            "120778": {
+              "value": "Treats"
+            },
+            "120439": {
+              "value": "Treats"
+            }
+          },
+          "treat_type": {
+            "120778": {
+              "value": "Dental"
+            },
+            "120439": {
+              "value": "Dental"
+            }
+          },
+          "advice_care": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "brand_filter": {
+            "120778": {
+              "value": "ProBalance"
+            },
+            "120439": {
+              "value": "ProBalance"
+            }
+          },
+          "benefits": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "breed": {
+            "120778": {
+              "value": "Large"
+            },
+            "120439": {
+              "value": "Large"
+            }
+          },
+          "feeding_guide": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "flavour": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "ingredients": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "size": {
+            "120778": {
+              "value": "15PK"
+            },
+            "120439": {
+              "value": "30PK"
+            }
+          },
+          "species": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "life_stage": {
+            "120778": {
+              "value": "Adult"
+            },
+            "120439": {
+              "value": "Adult"
+            }
+          },
+          "health_benefits": {
+            "120778": {
+              "value": "Dental&OralCare"
+            },
+            "120439": {
+              "value": "Dental&OralCare"
+            }
+          },
+          "australia_made": {
+            "120778": {
+              "value": "No"
+            },
+            "120439": {
+              "value": "No"
+            }
+          },
+          "health_condition_dietary": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "nutritional_info": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "nutritional_info_table": {
+            "120778": {
+              "value": ""
+            },
+            "120439": {
+              "value": ""
+            }
+          },
+          "member_price": {
+            "120778": {
+              "value": "24.990000"
+            },
+            "120439": {
+              "value": "41.990000"
+            }
+          }
+        },
+        "marketing_offer_message": {
+          "120778": "",
+          "120439": ""
+        }
+      },
+      "jsonSwatchConfig": {
+        "1299": {
+          "2827511": {
+            "type": "0",
+            "value": null,
+            "label": "15PK"
+          },
+          "2827505": {
+            "type": "0",
+            "value": null,
+            "label": "30PK"
+          },
+          "additional_data": "{\"update_product_preview_image\":\"1\",\"use_product_image_for_swatch\":0,\"text_swatch_as_multiple_select\":\"1\",\"swatch_input_type\":\"text\"}"
+        }
+      },
+      "mediaCallback": "https://www.petbarn.com.au/swatches/ajax/media/",
+      "gallerySwitchStrategy": "replace",
+      "jsonSwatchImageSizeConfig": {
+        "swatchImage": {
+          "width": 30,
+          "height": 20
+        },
+        "swatchThumb": {
+          "height": 90,
+          "width": 110
+        }
+      },
+      "showTooltip": 1
+    }
+  },
+  "*": {
+    "Magento_Swatches/js/catalog-add-to-cart": {}
+  }
+}
